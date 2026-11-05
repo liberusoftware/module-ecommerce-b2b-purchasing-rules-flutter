@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-b2b-purchasing-rules-flutter",
+  "capabilityKey": "planned:ecommerce:b2b-purchasing-rules",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_b2b_purchasing_rules_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/b2b-purchasing-rules.md",
+  "presentationPlan": "projects/ecommerce/flutter/b2b-purchasing-rules.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
